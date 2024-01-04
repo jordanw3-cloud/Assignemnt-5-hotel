@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignemnt-5-hotel</string>
+    <string name="hotel_information">Hotel Information</string>
+    <string name="mineral_hotel">Mineral Hotel</string>
+    <string name="cost_220_450_a_night">Cost: $220-$450 a night</string>
+    <string name="portland_maine">Portland, Maine</string>
+    <string name="_432_relax_lane">432 Relax Lane</string>
+    <string name="portland_maine1">Portland, Maine</string>
+    <string name="_432_relax_lane1">432 Relax Lane</string>
+    <string name="cost_250_450_a_night1">Cost: $250-$450 a night</string>
+</resources>
